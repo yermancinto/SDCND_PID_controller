@@ -43,7 +43,7 @@ In my case the final parameters are:
 <p align="center">
 <img align="center" width="500"  src="https://user-images.githubusercontent.com/41348711/95679791-768fb080-0bd5-11eb-9c10-1774a1893ac0.JPG">
 
-<p align="center">
+
 | Variable      |Initialized as	    	|Final values 	| 
 |:-------------:|:---------------------:|:-------------:| 
 | Kp         	|10   			|10.06        	|
