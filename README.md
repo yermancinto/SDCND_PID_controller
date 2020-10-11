@@ -1,10 +1,8 @@
 # SDCND_PID_controller
 
+
+![Captura_PID](https://user-images.githubusercontent.com/41348711/95678650-3f69d100-0bce-11eb-93d7-8d053e3019cb.JPG)
 <p align="center">
-![Captura_PID](https://user-images.githubusercontent.com/41348711/95678650-3f69d100-0bce-11eb-93d7-8d053e3019cb.JPG)
-
-![Captura_PID](https://user-images.githubusercontent.com/41348711/95678650-3f69d100-0bce-11eb-93d7-8d053e3019cb.JPG)
-
 
 ###File: PID.cpp; 
 
