@@ -32,6 +32,8 @@ In the terminal is showns as an output the actual K values, so you can check onl
 Once we reach the target tolerance (set as lower than 0.01) the code gets out of the loop and set these K values af final. The d_K paramters are also shown.
 
 In my case the final parameters are:
+<p align="center">
+<img align="center" width="500"  src="https://user-images.githubusercontent.com/41348711/95679791-768fb080-0bd5-11eb-9c10-1774a1893ac0.JPG">
 
 
 Note that this output is not optimized for the full circuit, as it depens where in the map the 200 loop is running each time. We running straight line the error shall be lower, so the tunning performed on that part of the road will show lower error, but I consider this aproach as good enough as the vehicle is inside od the road during all the simulation and the implementation of twiddle is in line with Sebastian definition. 
