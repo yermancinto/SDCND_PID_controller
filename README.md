@@ -1,7 +1,7 @@
 # SDCND_PID_controller
 
 <p align="center">
-<img align="center" width="500"  src="https://user-images.githubusercontent.com/41348711/83053927-d71cb780-a051-11ea-8c60-b58350fbf443.JPG">
+![Captura_PID](https://user-images.githubusercontent.com/41348711/95678650-3f69d100-0bce-11eb-93d7-8d053e3019cb.JPG)
 
 
 
