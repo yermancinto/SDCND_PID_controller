@@ -43,7 +43,7 @@ In my case the final parameters are:
 <p align="center">
 <img align="center" width="500"  src="https://user-images.githubusercontent.com/41348711/95679791-768fb080-0bd5-11eb-9c10-1774a1893ac0.JPG">
 
-
+<p align="center">
 | Variable      |Initialized as	    	|Final values 	| 
 |:-------------:|:---------------------:|:-------------:| 
 | Kp         	|10   			|10.06        	|
@@ -57,7 +57,7 @@ In my case the final parameters are:
 Note that this output is not optimized for the full circuit, as it depens where in the map the 200 loop is running each time. We running straight line the error shall be lower, so the tunning performed on that part of the road will show lower error, but I consider this aproach as good enough as the vehicle is inside od the road during all the simulation and the implementation of twiddle is in line with Sebastian definition. 
 
 
-#### 	Rubric points:
+## Rubric points:
 
 
 * [X] Compilation: The code compiles without errors
@@ -66,8 +66,8 @@ Note that this output is not optimized for the full circuit, as it depens where 
     
 * [X] Reflection: The description of the code is included above. As mentioned before, the final hyperparameters are choosen based on the tolerance criteria (<0.01)   
 
-* [X] Simulation: No tire may leaves the drivable portion of the track surface.
- The car may not pop up onto ledges or roll over any surfaces that would otherwise be considered unsafe (if humans were in the vehicle).
+* [X] Simulation: No tire leaves the drivable portion of the track surface. Slow but safe implementation...
+
 
     
 
